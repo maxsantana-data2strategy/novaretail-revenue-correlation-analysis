@@ -6,6 +6,14 @@
 
 Correlational analysis of 15,000 customers of a Latin American e-commerce platform, built to identify which behavioral factors are most strongly associated with the annual revenue each customer generates. The work applies the correlation coefficient appropriate to each variable type — Pearson, Spearman, point-biserial and Cramér's V — and explicitly compares Pearson against Spearman to quantify how much outliers and non-linearity distort the picture. Purchase frequency emerged as the dominant behavioral signal (ρ = 0.97), visit frequency and targeted ad spend as secondary ones (ρ = 0.32 and ρ = 0.19), and premium membership was ruled out as a revenue lever despite a highly significant p-value (r = 0.09, p ≈ 3e-30) — a textbook separation of statistical significance from practical relevance.
 
+[![Download Infographic PDF](https://img.shields.io/badge/📥_Download_Infographic_PDF-2EA44F?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/maxsantana-data2strategy/novaretail-revenue-correlation-analysis/main/assets/Infographic_NovaRetail_EN.pdf)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maxsantana-data2strategy/novaretail-revenue-correlation-analysis/main/assets/Infographic_NovaRetail_EN.jpg" alt="One-page infographic: business question, methodology, key finding in Context to Finding to Implication format, visualizations, and main findings table" width="780">
+</p>
+
+---
+
 ## 🎯 Problem Statement
 
 **Business Question:** Which customer behavior factors are most strongly associated with the annual revenue generated?
